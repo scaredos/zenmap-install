@@ -17,7 +17,7 @@ cd nmap-master/
 
 echo 'Make sure u edit lines 60 for nmap and ndiff paths'
 
-sleep 2
+sleep 10
 
 nano zenmap/share/zenmap/config/zenmap.conf
 
